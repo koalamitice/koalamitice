@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @koalamitice (Domenik)
-i am a student at TU Braunschweig. My research is mainly about quality assurance of (multi) software product lines.
-I am proficent in Java and Eclipse.
+I am a student at TU Braunschweig. My research focuses product line testing and systems with nested variability.
 
 
 <!---
