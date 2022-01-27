@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @koalamitice (Domenik)
-I am a student at TU Braunschweig. My research focuses product line testing and systems with nested variability.
+- 👋 Hi, I’m @koalamitice (Domenik), PhD student at TU Braunschweig researching software engineering for quantum computers.
 
 
 <!---
